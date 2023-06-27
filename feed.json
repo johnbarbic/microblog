@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://johnbarbic.micro.blog/2023/06/27/he-looks-around.html",
+				
+				"content_html": "<p>He looks around, around\nHe sees angels in the architecture\nSpinning in infinity\nHe says, &ldquo;Amen and Hallelujah!&rdquo;</p>\n\n<p><img src=\"uploads/2023/ef982997ab.jpg\" width=\"574\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "He looks around, around \nHe sees angels in the architecture \nSpinning in infinity \nHe says, \"Amen and Hallelujah!\"\n\n<img src=\"uploads/2023/ef982997ab.jpg\" width=\"574\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-06-27T14:10:52-06:00",
+				"url": "https://www.barbic.com/2023/06/27/he-looks-around.html"
+			},
+			{
 				"id": "http://johnbarbic.micro.blog/2023/06/18/113012.html",
 				
 				"content_html": "<p><img src=\"uploads/2023/image.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
