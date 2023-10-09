@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://johnbarbic.micro.blog/2023/10/09/saint-louis.html",
+				
+				"content_html": "<p>Saint Louis</p>\n\n<p><img src=\"uploads/2023/cafaa72559.jpg\" width=\"528\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Saint Louis\n\n<img src=\"uploads/2023/cafaa72559.jpg\" width=\"528\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-10-09T12:30:50-06:00",
+				"url": "https://www.barbic.com/2023/10/09/saint-louis.html"
+			},
+			{
 				"id": "http://johnbarbic.micro.blog/2023/07/30/180428.html",
 				
 				"content_html": "<p><img src=\"uploads/2023/4b7a745e4e.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
